@@ -1,0 +1,1 @@
+A React App using Redux for state management
